@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bitc.svg">
+   sodipodi:docname="bitc2.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -101,12 +101,6 @@
          id="path4489"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccsccccsccccsscccccsscc" />
-      <path
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccsccccsc"
-         inkscape:connector-curvature="0"
-         id="path4142"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64.90896606px;font-family:'MS Sans Serif';-inkscape-font-specification:'MS Sans Serif Bold';fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 173.97677,152.35765 c 0,2.28196 -0.46484,4.32093 -1.39453,6.11691 -0.90855,1.79599 -2.16574,3.2856 -3.77156,4.46883 -3.70269,2.592 -8.61955,3.86187 -9.98696,3.86665 l 0,7.95807 -6.73543,0 0,-7.95807 -6.13112,0 0,7.95807 -6.80822,0 0,-7.95807 -8.5169,0 -3.36683,0 0,-6.52647 6.3336,0.0338 0,-11.20439 0,-5.89902 0,-5.89901 0,-11.2044 -6.3336,-0.0631 0,-6.42956 3.08159,0 8.80214,0 10e-6,-8.4886 6.71409,0 -0.0231,8.4886 6.27929,0 0,-8.4886 6.70264,0 -0.0246,8.4886 c 4.37534,0.45425 8.10264,1.23927 10.71062,5.73659 0.88743,1.5213 1.33114,3.26446 1.33114,5.22948 0,2.28195 -0.60218,4.29979 -1.80655,6.05352 -1.20436,1.7326 -2.90526,3.08487 -5.1027,4.05681 l 0,0.25355 c 3.08487,0.61275 5.52529,1.8805 7.32127,3.80326 1.81711,1.92276 2.72567,4.45827 2.72567,7.60652 z" />
     </g>
   </g>
 </svg>
